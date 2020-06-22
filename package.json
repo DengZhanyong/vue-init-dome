@@ -1,7 +1,9 @@
 {
-  "name": "vue-init",
+  "name": "{{projectName}}",
   "version": "0.1.0",
+  "description": "{{projectDescription}}",
   "private": true,
+  "author": "{{author}}",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
